@@ -166,6 +166,16 @@ If you find this useful, consider requesting an official usage API from Anthropi
 
 ## Changelog
 
+
+**v1.3.0** (February 11, 2025)
+- 🔒 Single instance lock — prevents multiple copies of the app from running
+- 🧹 Auto-cleanup of stale browser processes on startup
+- 🔄 Proper app quit handling with browser cleanup
+- 🔧 Force Restart Browser button in Settings tab
+- 🏷️ Single tab enforcement — browser maintains exactly ONE tab
+- 🛡️ Improved browser process management and crash recovery
+- ✨ Enhanced stability and eliminated common errors
+
 ### v1.2.3
 - 🚀 Tracking now starts automatically after login — no need to click "Start Tracking"
 - 🐛 Fixed bug requiring "Start Tracking" to be clicked twice### v1.2.2
