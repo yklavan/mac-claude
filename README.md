@@ -166,6 +166,10 @@ If you find this useful, consider requesting an official usage API from Anthropi
 
 ## Changelog
 
+### v1.2.3
+- 🚀 Tracking now starts automatically after login — no need to click "Start Tracking"
+- 🐛 Fixed bug requiring "Start Tracking" to be clicked twice### v1.2.2
+
 ### v1.2.2
 - ℹ️ Added "About" menu item showing version number and app info
 
