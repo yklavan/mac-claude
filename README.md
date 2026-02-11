@@ -3,7 +3,7 @@
 A macOS menu bar app that monitors your [Claude.ai](https://claude.ai) daily and weekly usage limits in real time — so you never get caught off guard by hitting your limit mid-conversation.
 
 ![macOS Menu Bar](https://img.shields.io/badge/macOS-Menu%20Bar%20App-blue)
-![Version](https://img.shields.io/badge/version-1.2.1-orange)
+![Version](https://img.shields.io/badge/version-1.2.2-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-macOS-lightgrey)
 
@@ -165,6 +165,9 @@ If you find this useful, consider requesting an official usage API from Anthropi
 ---
 
 ## Changelog
+
+### v1.2.2
+- ℹ️ Added "About" menu item showing version number and app info
 
 ### v1.2.1
 - ⏱️ Added "Next update in: Xm Xs" countdown to menu bar dropdown
